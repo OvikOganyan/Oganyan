@@ -1,2 +1,11 @@
-git branch (tut nazwanije - forum) - sozdanije
-git checkout forum - perexod na nee
+register on github.com
+user name OvikOganyan
+eposiry name - Oganov
+
+git remote - uznat if we are joined remote reposi
+- esli nichego ne wydano - znachit ne podkljucheny
+
+to podsoedinitsja pishem  - git remote add (NAME OF REP) https:
+//guthub.com/OvikOganyan/Oganov.git
+
+to zagruzit - git push -u (NAME OF REP) (tut pishem kakuju wetku)
